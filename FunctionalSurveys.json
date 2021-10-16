@@ -1,0 +1,32 @@
+[
+    {
+        "id": "0",
+        "name": "LEFS",
+        "language": "English",
+        "questions": ["Any of your usual work, housework, or school activities",
+                      "Your usual hobbies, recreational or sporting activities",
+                      "Getting into or out of the bath",
+                      "Walking between rooms",
+                      "Putting on your shoes or socks",
+                      "Squatting",
+                      "Lifting an object, like a bag of groceries, from the floor", 
+                      "Performing light activities around your home", 
+                      "Performing heavy activities around your home",
+                      "Getting into or out of your car",
+                      "Walking 2 blocks",
+                      "Walking a mile",
+                      "Going up or down 10 stairs (about 1 flight of stairs)",
+                      "Standing for 1 hour",
+                      "Sitting for 1 hour",
+                      "Running on even ground",
+                      "Running on uneven ground",
+                      "Making sharp turns while running fast",
+                      "Hopping",
+                      "Rolling over in bed"],
+        "rating": ["0 - Extreme difficulty or unable to perform",
+                   "1 - Quite a bit of difficulty",
+                   "2 - Moderate difficulty",
+                   "3 - A little bit of difficulty",
+                   "4 - No difficulty"]
+    }
+]
